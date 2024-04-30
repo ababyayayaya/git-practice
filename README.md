@@ -1,4 +1,1 @@
-# git-practice
-このリポジトリはGit動画講座用です．
-ローカルリポで変更2  
-main branchで更新(merge conflict)
+# git-practiceこのリポジトリはGit動画講座用です．ローカルリポで変更2  reabase-practiceで更新(reabse conflict用)
